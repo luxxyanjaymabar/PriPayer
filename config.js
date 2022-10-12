@@ -44,8 +44,8 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/tv/CejAnWAhWWK/?igshid=YmMyMTA2M2Y="
-global.wm2 = 'wm nya'
+global.urlnya = "https://www.instagram.com/luxxyxyz"
+global.wm2 = 'LuccyBot'
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '6283894556422'
@@ -58,12 +58,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = "GAWRGURA bot";
-global.author = "Dimz";
+global.packname = "LuccyBot";
+global.author = "Luxxy";
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy Dimz'
+        global.colong2 = 'ʙy Luxxy'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
