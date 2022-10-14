@@ -1,5 +1,5 @@
 let handler = async m => {
-const bg = "https://telegra.ph/file/6868ed0fccc6ecb9d8731.jpg"
+const bg = "https://telegra.ph/file/ef6521455bcc05d9263bc.jpg"
 
 let krtu = `Kartu Intro`
 conn.sendMessage(m.chat, {
@@ -10,8 +10,9 @@ caption: `
    *「 TIKTOK OWNER 」*
 
 INI KAK AKUN TIKTOK OWNER KU 🥶
+@lu6xxy
  Kalo mo follow , follow aja😁☝
-chat owner : 083894556422
+chat owner : 088210072756
 
 `})
 }
